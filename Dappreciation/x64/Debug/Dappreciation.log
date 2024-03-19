@@ -1,0 +1,8 @@
+﻿  dappreciation.cpp
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\dappreciation.cpp(116,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\dappreciation.cpp(117,54): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\dappreciation.cpp(118,56): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\dappreciation.cpp(119,55): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\dappreciation.cpp(120,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\dappreciation.cpp(121,47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Dappreciation.vcxproj -> C:\Users\nazan\OneDrive\Desktop\Lab CS\Dappreciation\x64\Debug\Dappreciation.exe
